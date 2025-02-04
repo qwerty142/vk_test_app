@@ -8,3 +8,4 @@ CNN - ResNet18
 OCR - pytesseract
 
 ## Показатели основных метрик
+(image.png)
