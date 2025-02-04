@@ -4,8 +4,8 @@
 
 ### Структура модели
 
-#CNN - ResNet18
-#OCR - pytesseract
+# CNN - ResNet18
+# OCR - pytesseract
 
 ## Показатели основных метрик
 ![Основные метрики](image.png)
